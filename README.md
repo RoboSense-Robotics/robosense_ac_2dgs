@@ -25,7 +25,7 @@ This project has been developed and tested in the following environment:
 Clone the repository:
 
 ```bash
-git clone https://github.com/RoboSense-Robotics/robosense_ac2_2dgs.git
+git clone https://github.com/RoboSense-Robotics/robosense_ac_2dgs.git
 ```
 
 
@@ -167,4 +167,4 @@ This work builds upon the following open-source projects:
 
 ### Contact
 
-For bug reports and feature requests, please open an issue on [GitHub Issues](https://github.com/RoboSense-Robotics/robosense_ac2_2dgs/issues).
+For bug reports and feature requests, please open an issue on [GitHub Issues](https://github.com/RoboSense-Robotics/robosense_ac_2dgs/issues).

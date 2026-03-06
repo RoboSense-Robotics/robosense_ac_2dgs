@@ -25,7 +25,7 @@ RS-AC2-2DGS 是一个开源工具包，专为使用 Robosense Active Camera 2 (A
 拉取本仓库代码：
 
 ```bash
-git clone https://github.com/RoboSense-Robotics/robosense_ac2_2dgs.git
+git clone https://github.com/RoboSense-Robotics/robosense_ac_2dgs.git
 ```
 
 
@@ -165,4 +165,4 @@ bash tools/mesh_export.sh {model_path} {data_path} --unbounded --mesh_res 1024
 
 ### 联系方式
 
-如有问题报告或功能请求，请在 [GitHub Issues](https://github.com/RoboSense-Robotics/robosense_ac2_2dgs/issues) 页面提交。
+如有问题报告或功能请求，请在 [GitHub Issues](https://github.com/RoboSense-Robotics/robosense_ac_2dgs/issues) 页面提交。
